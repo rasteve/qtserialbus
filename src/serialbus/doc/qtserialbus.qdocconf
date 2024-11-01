@@ -57,3 +57,6 @@ navigation.cppclassespage = "Qt Serial Bus C++ Classes"
 # Auto-generate navigation linking based on "Qt Serial Bus module topics":
 navigation.toctitles = "Qt Serial Bus module topics"
 navigation.toctitles.inclusive = false
+
+# Allow zero warnings when testing documentation in CI
+warninglimit = 0
